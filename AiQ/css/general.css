@@ -1,0 +1,5 @@
+.quiz-scope-container,
+.quiz-body-container,
+.result {
+  display: none;
+}
